@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @Patzyh
+- 🌱 I’m currently learning Python
+- ⚡ Fun fact: none + none = none
